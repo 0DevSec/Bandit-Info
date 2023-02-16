@@ -78,6 +78,18 @@ L16
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 
+L18
+hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+
+The Command 
+ssh bandit18@bandit.labs.overthewire.org -p 2220 -t "/bin/sh"
+L18
+
+
+
+L19
+awhqfNnAbc1naukrpqDYcF95h7HoMTrC
+
 
 
 
@@ -88,4 +100,13 @@ SSH COMMAND :
 ssh bandit@bandit.labs.overthewire.org -p 2220  
 
 
-now we are on level (15)
+now we are on level (19)
+
+#################################################################################################
+
+L18?
+hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+
+L19 or L18 
+810zq8IK64u5A9Lb2ibdTGBtlcSZsoe8
+

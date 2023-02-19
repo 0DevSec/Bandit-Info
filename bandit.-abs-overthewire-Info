@@ -1,4 +1,19 @@
 
+WROM >> Info
+
+Did you know that the first internet worm was created in 1988 by Robert Tappan Morris,
+a then-student at Cornell University? Morris designed the worm to exploit
+several vulnerabilities in the sendmail and fingerd network programs, and
+bruteforce user passwords to gain access, after which it would
+spread to other internet-connected systems. Morris created the worm as a harmless 
+toy-example that would silently spread and gather statistics on the internet. 
+The worm was launched from MIT and caused an internet-wide panic because it
+kept copying and spreading itself due to an unintended bug.
+Robert Tappan Morris is now a professor at MIT.
+
+WROM >> Info
+
+
 
 website link:
 bandit.labs.overthewire.org
@@ -95,6 +110,8 @@ L20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 
+L21
+NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 
 
